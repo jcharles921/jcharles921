@@ -1,4 +1,4 @@
-## About me 🌟
+## Hi , I am Charles🌟
 
 - 🔭 I’m currently working on completing the Andela Technical Leadership Program 
 - 🌱 I’m currently learning javascript ,react,nodejs,sql,tailwind... and a lot more 
@@ -27,6 +27,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcharles921&show_icons=true&theme=dark&layout=donut-vertical)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jcharles921&theme=dark&hide_border=false)
+
+[![](https://visitcount.itsvg.in/api?id=jcharles921&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+
 <!--
 **jcharles921/jcharles921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
