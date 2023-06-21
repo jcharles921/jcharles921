@@ -7,9 +7,9 @@
 - 💬 Ask me about manga ,animes , some videos games like SCII 
 - 📫 How to reach me:
   
-   - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/chance-desire-iradukunda-094405205/](https://www.linkedin.com/in/jean-charles-uwitonze-33b9611ab/))
+   - [Linkedin](https://www.linkedin.com/in/jean-charles-uwitonze-33b9611ab/)
  
-   - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+   - [Gmail](mailto:babouwitonze921@gmail.com)
   
 - ⚡ Fun fact: I m geek to the bone 🤓 
 
