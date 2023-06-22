@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on completing the Andela Technical Leadership Program 
 - 🌱 I’m currently learning javascript ,react,nodejs,sql,tailwind... and a lot more 
 - 👯 I’m looking to collaborate on any opensource project that may come to me
-- 🤔 I’m looking for help with building solid skills in linux
-- 💬 Ask me about manga ,animes , some videos games like SCII 
+- 🤔 I’m looking for help on building solid skills in linux
 - 📫 How to reach me:
   
    - [Linkedin](https://www.linkedin.com/in/jean-charles-uwitonze-33b9611ab/)
