@@ -1,9 +1,9 @@
 ## Hi , I am Charles🌟
 
 - 🔭 I’m currently working on completing the Andela Technical Leadership Program 
-- 🌱 I’m currently learning javascript ,react,nodejs,sql,tailwind... and a lot more 
-- 👯 I’m looking to collaborate on any opensource project that may come to me
-- 🤔 I’m looking for help on building solid skills in linux
+- 🌱 I’m currently learning JavaScript, React, Node.js, SQL, Tailwind, and a lot more.
+- 👯‍♀️ I’m looking to collaborate on any open-source project that may come my way.
+- 🤔 I’m looking for help in building solid skills in Linux.
 - 📫 How to reach me:
   
    - [Linkedin](https://www.linkedin.com/in/jean-charles-uwitonze-33b9611ab/)
