@@ -29,7 +29,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jcharles921&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=jcharles921&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 <!--
