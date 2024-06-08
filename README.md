@@ -1,6 +1,6 @@
 ## Hi , I am Charles🌟
 
-- 🌱 I’m currently playing with mainly with JavaScript, the usual React, Node.js,Vues ... 
+- 🌱 I’m currently playing with mainly with JavaScript, the usual React, Node.js,VueJs ... 
 - 👯‍♀️ I’m looking to collaborate on any open-source project that may come my way.
 - 🤔 I’m looking to build solid fondation in Linux.
 - 📫 How to reach me:
