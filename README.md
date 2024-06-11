@@ -1,8 +1,8 @@
 ## Hi , I am Charles🌟
 
-- 🌱 I’m currently playing with mainly with JavaScript, the usual React, Node.js,VueJs ... 
-- 👯‍♀️ I’m looking to collaborate on any open-source project that may come my way.
-- 🤔 I’m looking to build solid fondation in Linux.
+- 🌱 I’m currently working mainly with JavaScript, including React, Node.js, and Vue.js.
+- 👯‍♀️ I’m looking to collaborate on any open-source projects that come my way.
+- 🤔 I’m aiming to build a solid foundation in Linux
 - 📫 How to reach me:
   
    - [Linkedin](https://www.linkedin.com/in/jean-charles-uwitonze-33b9611ab/)
